@@ -5,6 +5,7 @@
 release_platforms:
   ubuntu:
   - focal
+  - jammy
 repositories:
   abb_driver:
     doc:
